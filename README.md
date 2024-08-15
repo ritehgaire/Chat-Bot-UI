@@ -1,4 +1,4 @@
-Framework Handover: A Starting Point for Beginners
+Framework Handover: A Starting Point for Beginners (front end developers)
 
 The initial framework of this project is incomplete, and the creator has left it in the hands of our developer community. 
 
